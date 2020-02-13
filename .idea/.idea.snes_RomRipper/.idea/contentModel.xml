@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="B:\Projects\snes_RomRipper" t="IncludeRecursive">
+      <e p="Assets" t="Include">
+        <e p="MetroidHacking" t="Include">
+          <e p="_TestAllign.txt" t="Include" />
+          <e p="roomExtracter.cs" t="Include" />
+          <e p="RoomHeader.cs" t="Include" />
+          <e p="roomOffsets.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="BuildMap.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="HexView.cs" t="Include" />
+              <e p="RoomHeaderProxyEditor.cs" t="Include" />
+            </e>
+            <e p="MapRender.shader" t="Include" />
+            <e p="Rendering" t="Include">
+              <e p="ReadDump.cs" t="Include" />
+              <e p="RenderDumpBase.cs" t="Include" />
+              <e p="RenderDumpBlock4BPP.cs" t="Include" />
+              <e p="RenderDumpLinear.cs" t="Include" />
+              <e p="RenderDumpLinear4BPP.cs" t="Include" />
+              <e p="RenderDumpLinear8BPP.cs" t="Include" />
+            </e>
+            <e p="Rom.cs" t="Include" />
+            <e p="RomMan.cs" t="Include" />
+            <e p="RoomHeaderProxy.cs" t="Include" />
+          </e>
+          <e p="ValueDisplay.shader" t="Include" />
+        </e>
+      </e>
+      <e p="MetroidHacking.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="snes_RomRipper.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\brandonf\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\brandonf\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_snes_RomRipper.-1891095022.00" t="ExcludeRecursive" />
+  </component>
+</project>
